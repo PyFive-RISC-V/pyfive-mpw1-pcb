@@ -1,5 +1,7 @@
 # pyfive-mpw1-pcb
 Breakout carrier for the MPW1 PyFive chip
+
+PyFive specific pins
 * mprj_io[11] = usb_dn
 * mprj_io[12] = usb_dp
 * mprj_io[13] = usb_pu
@@ -13,3 +15,11 @@ Breakout carrier for the MPW1 PyFive chip
 * mprj_io[21] = video_hsync
 * mprj_io[22] = video_vsync
 * mprj_io[26..23] = video_data
+
+Features
+* Input current jumpers
+* External clock input header
+* 2.54" programming headers
+* PDM => RC filter => op-amp => headphone jack
+* Header for video output to DVI PMOD
+* Buttons
