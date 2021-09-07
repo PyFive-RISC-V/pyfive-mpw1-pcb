@@ -20,6 +20,6 @@ Features
 * Input current jumpers
 * External clock input header
 * 2.54" programming headers
-* PDM => RC filter => op-amp => headphone jack
+* PCM => RC filter => op-amp => headphone jack
 * Header for video output to DVI PMOD
 * Buttons
