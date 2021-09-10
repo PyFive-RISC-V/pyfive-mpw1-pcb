@@ -26,3 +26,5 @@ Features
 * PCM => RC filter => op-amp => headphone jack
 * Header for video output to DVI PMOD
 * Buttons
+
+Based on the [caravel_carrier](https://github.com/samlittlewood/caravel_carrier) design by Sam Littlewood.
