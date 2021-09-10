@@ -14,7 +14,10 @@ PyFive specific pins
 * mprj_io[20] = video_de
 * mprj_io[21] = video_hsync
 * mprj_io[22] = video_vsync
-* mprj_io[26..23] = video_data
+* mprj_io[23] = video_r
+* mprj_io[24] = video_g
+* mprj_io[25] = video_b
+* mprj_io[26] = video_i
 
 Features
 * Input current jumpers
