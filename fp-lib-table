@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "carrier")(type "KiCad")(uri "${KIPRJMOD}/carrier.pretty")(options "")(descr ""))
+  (lib (name "HRO_TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/components/HRO_TYPE_C_31_M_12/HRO_TYPE-C-31-M-12")(options "")(descr ""))
+  (lib (name "TPD2E001DRSR")(type "KiCad")(uri "${KIPRJMOD}/components/TPD2E001DRSR/TPD2E001DRSR.pretty")(options "")(descr ""))
 )

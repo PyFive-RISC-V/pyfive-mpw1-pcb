@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TPD2E001DRSR
+#
+DEF TPD2E001DRSR U 0 40 Y Y 1 L N
+F0 "U" -211 559 50 H V L BNN
+F1 "TPD2E001DRSR" -207 -886 50 H V L BNN
+F2 "SON95P315X315X80-7N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "SON-6" 0 0 50 H I L BNN "PACKAGE"
+F5 "Texas Instruments" 0 0 50 H I L BNN "SUPPLIER"
+F6 "1603426" 0 0 50 H I L BNN "OC_FARNELL"
+F7 "54M7403" 0 0 50 H I L BNN "OC_NEWARK"
+F8 "TPD2E001DRSR" 0 0 50 H I L BNN "MPN"
+DRAW
+S -500 -700 500 400 0 0 16 f
+X VCC 1 -700 200 200 R 40 40 0 0 W 
+X N.C._2 2 -700 0 200 R 40 40 0 0 N 
+X N.C. 5 -700 -100 200 R 40 40 0 0 N 
+X GND 4 -700 -300 200 R 40 40 0 0 P 
+X THERMALPAD 7 -700 -500 200 R 40 40 0 0 P 
+X IO1 3 700 200 200 L 40 40 0 0 O 
+X IO2 6 700 0 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
