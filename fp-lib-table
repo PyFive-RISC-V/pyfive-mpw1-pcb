@@ -2,4 +2,5 @@
   (lib (name "carrier")(type "KiCad")(uri "${KIPRJMOD}/carrier.pretty")(options "")(descr ""))
   (lib (name "HRO_TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/components/HRO_TYPE_C_31_M_12/HRO_TYPE-C-31-M-12")(options "")(descr ""))
   (lib (name "ESDS312DBVR")(type "KiCad")(uri "${KIPRJMOD}/components/ESDS312DBVR/ESDS312DBVR")(options "")(descr ""))
+  (lib (name "LRTBGVSRU4V2JWA6BBD8S2U27Z20S")(type "KiCad")(uri "${KIPRJMOD}/components/RGB_LED_LRTBGVSR-U4V2-JW+A6BB-D8+S2U2-7Z-20-S/LRTBGVSRU4V2JWA6BBD8S2U27Z20S.pretty")(options "")(descr ""))
 )
