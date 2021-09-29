@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/components/HRO_TYPE_C_31_M_12/TYPE-C-31-M-12.lib")(options "")(descr ""))
   (lib (name "ESDS312DBVR")(type "Legacy")(uri "${KIPRJMOD}/components/ESDS312DBVR/ESDS312DBVR.lib")(options "")(descr ""))
+  (lib (name "LRTBGVSR-U4V2-JW+A6BB-D8+S2U2-")(type "Legacy")(uri "${KIPRJMOD}/components/RGB_LED_LRTBGVSR-U4V2-JW+A6BB-D8+S2U2-7Z-20-S/LRTBGVSR-U4V2-JW+A6BB-D8+S2U2-.lib")(options "")(descr ""))
 )
